@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AbdalrahmanAlsherif</h1>
 <h3 align="center">| Software Engineer |Fullstack Engineer| Character Designer |</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI5YjRjODFiODNmNmU5MWY5NmMwZTJlODFjOTRmYjIyZDRlZTUxMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif">
 
 - 🔭 I’m currently working on **DS-Text editor using Double lists**
 
