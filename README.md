@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm AbdalrahmanAlsherif</h1>
 <h3 align="center">| Software Engineer |Fullstack Engineer| Character Designer |</h3>
 
-<img align="center" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI5YjRjODFiODNmNmU5MWY5NmMwZTJlODFjOTRmYjIyZDRlZTUxMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif">
-
+<img align="center" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI5YjRjODFiODNmNmU5MWY5NmMwZTJlODFjOTRmYjIyZDRlZTUxMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif">
+<p align="center">
 - 🔭 I’m currently working on **DS-Text editor using Double lists**
 
 - 🌱 I’m currently learning **APIs**
@@ -12,7 +12,7 @@
 - 📝 I regularly write articles on [https://www.linkedin.com/in/abdulrahman-ibrahim-926428263](https://www.linkedin.com/in/abdulrahman-ibrahim-926428263)
 
 - 📫 How to reach me **abdalrahman.alsherif@icloud.com**
-
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="Center">
 <a href="https://linkedin.com/in/abdulrahman-ibrahim-926428263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahman-ibrahim-926428263" height="30" width="40" /></a>
