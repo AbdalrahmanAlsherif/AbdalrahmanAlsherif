@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AbdalrahmanAlsherif</h1>
-<h3 align="center">Software Engineer |Fullstack Engineer| Character Designer</h3>
+<h3 align="center">| Software Engineer |Fullstack Engineer| Character Designer |</h3>
 
 - 🔭 I’m currently working on **DS-Text editor using Double lists**
 
