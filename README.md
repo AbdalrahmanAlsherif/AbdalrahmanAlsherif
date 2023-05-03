@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AbdalrahmanAlsherif</h1>
 <h3 align="center">| Software Engineer |Fullstack Engineer| Character Designer |</h3>
-![Alt Text](https://giphy.com/gifs/13HgwGsXF0aiGY?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)
+<img url="https://giphy.com/gifs/13HgwGsXF0aiGY?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=">
 
 - 🔭 I’m currently working on **DS-Text editor using Double lists**
 
