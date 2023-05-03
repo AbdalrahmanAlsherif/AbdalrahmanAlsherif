@@ -2,8 +2,8 @@
 <h3 align="center">| Software Engineer |Fullstack Engineer| Character Designer |</h3>
 
 <img align="center" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI5YjRjODFiODNmNmU5MWY5NmMwZTJlODFjOTRmYjIyZDRlZTUxMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif">
-<p align="center">
-- 🔭 I’m currently working on **DS-Text editor using Double lists**
+
+<p align="center">- 🔭 I’m currently working on **DS-Text editor using Double lists**
 
 - 🌱 I’m currently learning **APIs**
 
