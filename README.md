@@ -7,7 +7,6 @@ I'm a Software engineering student based in the Middle East<br>in my spare time,
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AbdalrahmanAlsherif&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdalrahmanAlsherif&theme=synthwave&hide_border=false)<br/>
-username=AbdalrahmanAlsherif&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbdalrahmanAlsherif&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
