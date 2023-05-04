@@ -9,7 +9,7 @@
 
 <p align="center">- 👯 I’m looking to collaborate on **Any Full stack project**</p>
 
-<p align="center">- 📝 I regularly write articles on [https://www.linkedin.com/in/abdulrahman-ibrahim-926428263](https://www.linkedin.com/in/abdulrahman-ibrahim-926428263) </p>
+<p align="center">- 📝 I regularly write articles on [https://www.linkedin.com/in/abdulrahman-ibrahim-926428263] </p>
 
 <p align="center">- 📫 How to reach me **abdalrahman.alsherif@icloud.com**</p>
 <hr>
