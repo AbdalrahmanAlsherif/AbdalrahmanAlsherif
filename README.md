@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm AbdalrahmanAlsherif</h1>
-<h3 align="center">| Software Engineer |Fullstack Engineer| Character Designer |</h3>
+<h3 align="center">| Software Engineer | Cybersecurity Analyst</h3>
 <p align="center">
 <img  alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI5YjRjODFiODNmNmU5MWY5NmMwZTJlODFjOTRmYjIyZDRlZTUxMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif"></p>
 <hr>
-<p align="center">- 🔭 I’m currently working on **DS-Text editor using Double lists** </p>
+<p align="center">- 🔭 I’m currently working on **Building a SOC home lab** </p>
 
-<p align="center">- 🌱 I’m currently learning **APIs**</p>
+<p align="center">- 🌱 I’m currently learning **SANS 401**</p>
 
-<p align="center">- 👯 I’m looking to collaborate on **Any Full stack project**</p>
+<p align="center">- 👯 I’m looking to collaborate on **Any Cybersecurity related project**</p>
 
 <p align="center">- 📝 I regularly write articles on [https://www.linkedin.com/in/abdulrahman-ibrahim-926428263] </p>
 
