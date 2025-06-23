@@ -7,7 +7,7 @@
 
 <p align="center">- 🌱 I’m currently learning **ISO 27001**</p>
 
-<p align="center">- 👯 I’m looking to collaborate on **Any Cybersecurity related project**</p>
+<p align="center">- 👯 I’m looking to collaborate on **Any Cybersecurity related project/Research**</p>
 
 <p align="center">- 📝 I regularly write articles on [https://www.linkedin.com/in/abdelrhman-ebrahim-926428263/] </p>
 
