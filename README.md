@@ -1,21 +1,21 @@
-<h1 align="center">Al Salmu Alykum 👋, I'm Abdalrahman Alsherif</h1>
-<h3 align="center"> Software Engineer | Cybersecurity Analyst | DFIR | Researcher</h3>
+<h1 align="center">Al Salmu Alykum 👋, I'm Abdalrahman Al-Sharif</h1>
+<h3 align="center"> Software Engineer | Cybersecurity Engineer | DFIR | GRC | Researcher</h3>
 <p align="center">
 <img  alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI5YjRjODFiODNmNmU5MWY5NmMwZTJlODFjOTRmYjIyZDRlZTUxMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif"></p>
 <hr>
-<p align="center">- 🔭 I’m currently working on **AI x Cybersecurity Research particularly in the LLM domain ** </p>
+<p align="center">- 🔭 I’m currently working on **AI Enabled GRC Solitons ** </p>
 
 <p align="center">- 🌱 I’m currently learning **AI models and LLM innerworkings **</p>
 
 <p align="center">- 👯 I’m looking to collaborate on **Any Cybersecurity related project/Research**</p>
 
-<p align="center">- 📝 I regularly write articles on [https://www.linkedin.com/in/abdelrhman-ebrahim-926428263/] </p>
+<p align="center">- 📝 I regularly write articles on [https://www.linkedin.com/in/abdalrahman-alsharif/] </p>
 
 <p align="center">- 📫 How to reach me **abdalrahman.alsherif@icloud.com**</p>
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="Center">
-<a href="https://www.linkedin.com/in/abdelrhman-ebrahim-926428263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahman-ibrahim-926428263" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdalrahman-alsharif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdalrahman-alsharif/" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
